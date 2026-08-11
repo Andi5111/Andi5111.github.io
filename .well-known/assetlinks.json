@@ -1,0 +1,17 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.AndreasDrothGames.EntryCodeScanner",
+      "sha256_cert_fingerprints": [
+        "D2:CE:C3:6C:7F:B8:15:25:56:DC:47:00:E0:40:66:BC:FC:FB:F7:36:DA:C4:5F:B4:63:F1:67:78:04:78:A0:F4",
+        "B9:15:79:11:39:03:AE:31:F2:4B:B7:92:F2:BB:44:A3:3F:3C:EA:F8:FB:05:6D:1C:DF:81:B8:8F:76:33:D2:8C",
+        "05:B8:AF:98:0D:86:9C:5E:29:D1:70:84:5B:9A:51:30:30:CC:AA:B2:B0:F3:0F:F0:5C:D4:B5:E9:1C:DE:A6:E1"
+      ]
+    }
+  }
+]
